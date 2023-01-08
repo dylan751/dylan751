@@ -71,8 +71,9 @@
 <h2 align="left">Github Stats 📊</h2>
 <br>
 <div align="left">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muoi07052001&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=muoi07052001&show_icons=true&theme=algolia" />
+    <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=muoi07052001&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
+    <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muoi07052001&layout=compact&theme=algolia"/>
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=muoi07052001&show_icons=true&theme=algolia" /> -->
 </div>
 <br>
 

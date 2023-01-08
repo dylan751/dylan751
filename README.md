@@ -1,6 +1,7 @@
-<h2 align="center">💻 Programming Languages 💻</h2>
+<img align="right" alt="GIF" width="300px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
+<h2 align="left">💻 Programming Languages 💻</h2>
 <br>
-<div align="center">
+<div align="left">
     <div>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="25"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="25"/>
@@ -20,9 +21,9 @@
 </div>
 
 <br>
-<h2 align="center">🚀 Frameworks and Libraries 🚀</h2>
+<h2 align="left">🚀 Frameworks and Libraries 🚀</h2>
 <br>
-<div align="center">
+<div align="left">
     <div>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" height="25"/>
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" height="25" />
@@ -46,9 +47,9 @@
 </div>
 
 <br>
-<h2 align="center">🧰 Technologies and Tools 🧰</h2>
+<h2 align="left">🧰 Technologies and Tools 🧰</h2>
 <br>
-<div align="center">
+<div align="left">
     <div>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" height="25" />
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" height="25" />
@@ -67,17 +68,17 @@
 </div>
 <br>
 
-<h2 align="center">📊 Github Stats 📊</h2>
+<h2 align="left">left Github Stats 📊</h2>
 <br>
-<div align="center">
+<div align="left">
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muoi07052001&layout=compact&theme=algolia"/>
     <img width="434" src="https://github-readme-stats.vercel.app/api?username=muoi07052001&show_icons=true&theme=algolia" />
 </div>
 <br>
 
-<h2 align="center">📞 Contact me 📞</h2>
+<h2 align="left">left Contact me 📞</h2>
 <br>
-<div align="center">
+<div align="left">
     <a href="https://www.facebook.com/duong.nguyenhai.7140/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     <a href="https://github.com/muoi07052001/" target="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="mailto:muoi07052001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

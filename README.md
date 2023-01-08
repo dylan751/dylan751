@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" width="300px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 <h2 align="left">💻 Programming Languages 💻</h2>
 <br>
 <div align="left">
@@ -20,6 +19,7 @@
     </div>
 </div>
 
+<img align="right" alt="GIF" width="300px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 <br>
 <h2 align="left">🚀 Frameworks and Libraries 🚀</h2>
 <br>
@@ -68,7 +68,7 @@
 </div>
 <br>
 
-<h2 align="left">left Github Stats 📊</h2>
+<h2 align="left">Github Stats 📊</h2>
 <br>
 <div align="left">
     <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muoi07052001&layout=compact&theme=algolia"/>
@@ -76,7 +76,7 @@
 </div>
 <br>
 
-<h2 align="left">left Contact me 📞</h2>
+<h2 align="left">Contact me 📞</h2>
 <br>
 <div align="left">
     <a href="https://www.facebook.com/duong.nguyenhai.7140/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>

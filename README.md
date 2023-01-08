@@ -1,4 +1,5 @@
 <h2 align="left">💻 Programming Languages 💻</h2>
+<img align="right" alt="GIF" width="300px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 <br>
 <div align="left">
     <div>
@@ -19,7 +20,6 @@
     </div>
 </div>
 
-<img align="right" alt="GIF" width="300px" height="300px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
 <br>
 <h2 align="left">🚀 Frameworks and Libraries 🚀</h2>
 <br>

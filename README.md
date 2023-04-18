@@ -71,9 +71,9 @@
 <h2 align="left">Github Stats 📊</h2>
 <br>
 <div align="left">
-    <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=muoi07052001&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
-    <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muoi07052001&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=muoi07052001&show_icons=true&theme=algolia" /> -->
+    <img alt="stat" src="https://github-readme-stats.vercel.app/api?username=dylan751&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
+    <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan751&layout=compact&theme=algolia"/>
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=dylan751&show_icons=true&theme=algolia" /> -->
 </div>
 <br>
 
@@ -83,6 +83,6 @@
     <a href="https://www.facebook.com/duong.nguyenhai.7140/" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     <a href="https://www.instagram.com/zuong_nh/" target="top"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:muoi07052001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://leetcode.com/muoi07052001/" target="top"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-    <a href="https://github.com/muoi07052001/" target="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://leetcode.com/dylan751/" target="top"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href="https://github.com/dylan751/" target="top"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>

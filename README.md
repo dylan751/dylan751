@@ -70,7 +70,7 @@
 
 <h2 align="left">Github Stats 📊</h2>
 <br>
-<a href="https://app.daily.dev/dylan751"><img align="right" width="250px" src="https://api.daily.dev/devcards/fde1ffd1a71247e5b3463083fd2cce9e.png?r=fpv" width="400" alt="Nguyen Hai Duong's Dev Card"/></a>
+<a href="https://app.daily.dev/dylan751"><img align="right" width="250px" src="https://github.com/dylan751/dylan751/blob/master/devcard.svg" width="400" alt="Nguyen Hai Duong's Dev Card"/></a>
 <div align="left">
     <img height="170" alt="stat-1" src="https://github-readme-stats.vercel.app/api?username=dylan751&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
     <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=dylan751&hide_border=true" />

@@ -70,11 +70,16 @@
 
 <h2 align="left">Github Stats 📊</h2>
 <br>
-<div align="left">
-    <img height="170" alt="stat-1" src="https://github-readme-stats.vercel.app/api?username=dylan751&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
-    <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=dylan751&hide_border=true" />
-    <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan751&layout=compact&theme=algolia"/> -->
-    <!-- <img width="434" src="https://github-readme-stats.vercel.app/api?username=dylan751&show_icons=true&theme=algolia" /> -->
+<div style="display: flex; justify-content: space-between">
+    <div style="display: flex; flex-direction: column; align-items: flex-start">
+        <img height="170" alt="stat-1" src="https://github-readme-stats.vercel.app/api?username=dylan751&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
+        <img height="170" alt="stat-2" src="https://github-readme-streak-stats.herokuapp.com/?user=dylan751&hide_border=true" />
+        <!-- <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan751&layout=compact&theme=algolia"/> -->
+        <!-- <img width="434" src="https://github-readme-stats.vercel.app/api?username=dylan751&show_icons=true&theme=algolia" /> -->
+    </div>
+    <div>
+    <a href="https://app.daily.dev/muoi07052001"><img src="https://api.daily.dev/devcards/fde1ffd1a71247e5b3463083fd2cce9e.png?r=qb2" height="340" alt="Nguyen Hai Duong's Dev Card"/></a> 
+    </div>
 </div>
 <br>
 
